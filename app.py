@@ -30,7 +30,7 @@ quiz_data = [
 ]
 
 # Set up the Streamlit app
-st.title("💖 Love Quiz 💖")
+st.title("💖 Love Quiz For My Baby  💖")
 st.balloons()
 st.write("Let's see how well you know me!")
 
