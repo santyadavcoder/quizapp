@@ -1,5 +1,12 @@
 import streamlit as st
-
+st.markdown(
+    """
+    <style>
+    .footer {visibility: hidden;}
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 # Define questions and answers
 quiz_data = [
     {
